@@ -1,0 +1,7 @@
+---
+
+# 集約するアドレス
+blackhole_postfix_address: yamasita@localhost
+# 外に飛ばすか？
+blackhole_postfix_smtp: false
+
